@@ -6,7 +6,7 @@ In this assignment you will create a simple text game. The game will played usin
 
 To get started:
 
-1. Fork and clone this repo into your local week4 folder 
+1. clone this repo into your local week4 folder 
 2. Open the folder TKH-monster-smash in Visual Studio Code 
 3. Follow the directions and write your code inside script.js
 4. To run your code, open index.html in your browser with the Live Server VS Code extension 
