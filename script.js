@@ -1,3 +1,5 @@
+alert('hello')
+//hello i am a test comment
 //global variables, can be accessed by all functions
 
   //declare a variable named playerName that stores the value the player enters from a prompt
@@ -7,6 +9,8 @@
   //assign a name of a monster (ex 'Werewolf') as a string to a variable named monsterName
 
   //declare a variable named monsterHealth and set it equal to the number value 15
+
+
 
 //random integer function 
 //see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
@@ -61,14 +65,16 @@ function playGame() {
 
   //while loop that runs until player or monster's health is <= 0 
   //add the condition in the while loop parentheses 
-  while(){
-    roundNumber++
-   //write an alert statement that tells the player what round number it is, and the player's and monster's current health points
+  // while(){
+  //   roundNumber++
+  //  //write an alert statement that tells the player what round number it is, and the player's and monster's current health points
  
-   //call playRound inside the while loop
+  //  //call playRound inside the while loop
     
-  }
+  // }
   //outside of while loop, declare a winner and use alert to show a win or lose message 
 }
 
 //call playGame to start game
+
+
